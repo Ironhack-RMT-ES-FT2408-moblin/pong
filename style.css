@@ -14,7 +14,7 @@ body {
   background-color: black;
   width: 400px;
   height: 600px;
-  /* overflow: hidden;  */
+  overflow: hidden; 
   /* overflow hidden previene que los elementos salgan de la pantalla visualmente*/
 }
 
@@ -39,3 +39,5 @@ body {
   top: 550px;
   left: 200px;
 }
+
+/* ! SIEMPRE USAR SOLO TOP Y LEFT */
